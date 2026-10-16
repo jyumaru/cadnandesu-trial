@@ -1,0 +1,25 @@
+{
+  "name": "CADなんです（体験版）",
+  "short_name": "CADなんです",
+  "description": "インストールしない2D CAD。体験版（保存・書き出しはできません）",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#22252a",
+  "theme_color": "#22252a",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
